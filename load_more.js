@@ -41,3 +41,5 @@ jQuery(document).ready(function($) {
         }
 
         ajaxLoadMore();
+
+});
